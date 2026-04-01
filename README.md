@@ -23,8 +23,8 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokalmu:
 ### 1. Clone Repository
 Buka terminal dan *clone repository* ini ke direktori lokalmu:
 ```bash
-git clone [https://github.com/USERNAME_GITHUB_KAMU/nama-repo-kamu.git](https://github.com/USERNAME_GITHUB_KAMU/nama-repo-kamu.git)
-cd nama-repo-kamu
+git clone https://github.com/ANazmuddin/smart_CLI_tool.git
+cd smart_CLI_tool
 ```
 *(Catatan: Ubah URL di atas dengan URL repository GitHub aslimu nanti)*
 
